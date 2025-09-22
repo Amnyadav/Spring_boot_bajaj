@@ -1,0 +1,3 @@
+com\example\webhooksolver\dto\WebhookResponse.class
+com\example\webhooksolver\WebhookSolverApplication.class
+com\example\webhooksolver\dto\SubmitRequest.class
